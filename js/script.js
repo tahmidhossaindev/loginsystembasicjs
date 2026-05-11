@@ -1,7 +1,7 @@
 let username = "se9k"
 let email = "tahmidhossain345@gmail.com"
 let number = 1816400681
-let password = "tahmid134"
+let password = "tahmid1234"
 
 if (username == "se9k") {
     if (email == "tahmidhossain345@gmail.com") {
